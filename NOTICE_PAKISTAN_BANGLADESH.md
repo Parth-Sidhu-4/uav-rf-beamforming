@@ -72,15 +72,17 @@ Inter-Services Intelligence (ISI), or any defence-related public body must
 ensure that accessing or using this repository is consistent with their
 obligations under this Act and their applicable security clearance terms.
 
-#### 4. Prevention of Electronic Crimes Act 2016 (PECA)
+#### 4. Prevention of Electronic Crimes Act 2016 (PECA) & 2025 Amendment
 
-The **Prevention of Electronic Crimes Act, 2016** (PECA) regulates cyber
-activities in Pakistan. Section 10 of PECA prohibits unauthorised access
+The **Prevention of Electronic Crimes Act, 2016** (PECA), as significantly 
+amended by the **Prevention of Electronic Crimes (Amendment) Act 2025**, 
+regulates cyber activities in Pakistan under the oversight of the **Digital 
+Rights Protection Authority (DRPA)**. Section 10 of PECA prohibits unauthorised access
 to information systems in ways that could prejudice national security.
 This repository is a public GitHub repository; accessing it does not
 constitute an unauthorised act. However, any Pakistani user who uses
 algorithms from this repository to develop a system subsequently used
-against Pakistan's national interest may face liability under PECA.
+against Pakistan's national interest may face liability under the amended PECA.
 
 #### 5. Author's Limitation of Liability
 
@@ -142,23 +144,19 @@ technology under the current Import Policy Order, particularly if the user is
 affiliated with the Bangladesh Armed Forces, Directorate General of Forces
 Intelligence (DGFI), or any defence-related government body.
 
-#### 2. Digital Security Act 2018 (DSA)
-#### ডিজিটাল নিরাপত্তা আইন ২০১৮
+#### 2. Cyber Security Act & 2026 AI Amendments
+#### সাইবার নিরাপত্তা আইন এবং ২০২৬ এর সংশোধনী
 
-The **Digital Security Act, 2018** (DSA) is Bangladesh's primary legislation
-governing digital activities. Section 17 of the DSA criminalises attacks on
-"critical information infrastructure." Section 27 creates offences relating
-to activities that threaten the sovereignty, integrity, or security of
-Bangladesh through digital means.
+The Digital Security Act 2018 was replaced by the **Cyber Security Act 2023**, 
+which was subsequently updated by the **Cyber Security (Amendment) Bill, 2026**. 
+The 2026 amendment specifically empowers authorities regarding AI-generated 
+content and grants the BTRC increased authority to block digital content that 
+threatens the sovereignty, integrity, or security of Bangladesh.
 
 While accessing a public academic repository does not ordinarily constitute
-an offence under the DSA, Bangladeshi users who subsequently use algorithms
-from this repository in ways that could be construed as threatening to
-national security should exercise appropriate caution.
-
-**Note:** The DSA 2018 has been replaced by the **Cyber Security Act 2023**
-(সাইবার নিরাপত্তা আইন ২০২৩). Users should verify the currently applicable
-legislation at the time of access.
+an offence, Bangladeshi users who subsequently use the AI algorithms 
+(such as the FFN surrogate model) from this repository in ways that violate 
+the 2026 Act must exercise appropriate caution.
 
 #### 3. Official Secrets Act 1923 (as applicable in Bangladesh)
 
