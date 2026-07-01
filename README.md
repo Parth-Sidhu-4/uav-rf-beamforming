@@ -313,6 +313,7 @@ Completed as a Summer Internship at **Encap Technologies India Private Limited (
 | [`NOTICE_GOI_NATIONAL_SECURITY.md`](NOTICE_GOI_NATIONAL_SECURITY.md) | Author's explicit declaration of allegiance to India and disavowal of adversarial misuse |
 | [`NOTICE_CHINA.md`](NOTICE_CHINA.md) | Bilingual (English + 中文) notice covering China's 5 applicable laws |
 | [`NOTICE_TURKEY.md`](NOTICE_TURKEY.md) | Bilingual (English + Türkçe) notice covering Turkish defence laws and UAV industry alignments |
+| [`NOTICE_ACTIVE_CONFLICT.md`](NOTICE_ACTIVE_CONFLICT.md) | Absolute embargo on the use of this repository by nations currently involved in armed conflicts |
 | [`NOTICE_PAKISTAN_BANGLADESH.md`](NOTICE_PAKISTAN_BANGLADESH.md) | Trilingual notice for Pakistan (اردو) and Bangladesh (বাংলা) |
 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | Closed project — no external contributions accepted |
 | [`SECURITY.md`](SECURITY.md) | No security patches; not for operational deployment |
