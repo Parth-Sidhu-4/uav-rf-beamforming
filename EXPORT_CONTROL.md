@@ -136,6 +136,12 @@ US export control attorney before doing so.
 
 **EAR (Export Administration Regulations, 15 C.F.R. Parts 730–774)**
 
+**Notice of May 2026 US BIS Update:** The US Bureau of Industry and Security (BIS) 
+recently expanded export controls specifically covering *AI-driven spectrum 
+sensing modules and real-time RF jamming hardware*. The Author reaffirms that 
+this repository contains exclusively *simulation mathematics* and software, not 
+physical hardware modules, and therefore claims the "fundamental research" exemption.
+
 Publicly available academic research that does not involve Government
 funding or classified data is generally covered by the EAR's "fundamental
 research exclusion" (15 C.F.R. § 734.8). The Author believes this Work
