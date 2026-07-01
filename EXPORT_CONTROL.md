@@ -159,8 +159,15 @@ General of Foreign Trade (DGFT).
 
 Electronic warfare signal processing systems and advanced antenna
 technologies may fall under **SCOMET Category 5 (Electronics, Computers)**
-or **Category 6 (Sensors and Lasers)**. The Author has not sought a formal
-SCOMET classification opinion on this Work.
+or **Category 6 (Sensors and Lasers)**. 
+
+**Notice of October 2025 SCOMET Category 7 Update:** The DGFT recently 
+operationalized Category 7, placing strict export controls on "sensitive 
+emerging technologies" including related software and technological know-how. 
+Because this repository constitutes fundamental academic research published 
+openly within India, the Author claims exemption from Category 7 licensing requirements.
+
+The Author has not sought a formal SCOMET classification opinion on this Work.
 
 As a student researcher publishing academic findings, the Author believes
 this Work is not subject to SCOMET export controls in its current form.
