@@ -1,0 +1,182 @@
+PROPRIETARY RESEARCH LICENCE
+
+Copyright (c) 2026 Parth Sidhu ("Author")
+All Rights Reserved.
+
+Encap Technologies India Private Limited ("Company") is acknowledged as the
+host organisation for the internship during which this Work was produced.
+All intellectual property rights vest exclusively in the Author.
+
+---
+
+1. OWNERSHIP AND AUTHORSHIP
+
+This Work — including but not limited to all source code, Python scripts,
+simulation modules, LaTeX report source, compiled PDF report, figures,
+datasets, mathematical derivations, algorithms, system architectures, and
+all associated intellectual property — was conceived, designed, implemented,
+and authored solely by Parth Sidhu in his individual capacity as a student
+researcher during a Summer Internship at Encap Technologies India Private
+Limited (Encaptechno), Mohali, Punjab, India.
+
+All intellectual property rights, including copyright, vest exclusively and
+solely in Parth Sidhu ("the Author"). The Company's involvement was limited
+to providing an internship placement; no original intellectual contribution
+to the research, algorithms, or implementation was made by the Company or
+any of its employees. Accordingly, the Company holds no ownership interest
+in this Work.
+
+---
+
+2. PROHIBITED ACTIVITIES
+
+The following are expressly prohibited without prior, explicit, written
+authorisation from the Author:
+
+  a) Reproduction, copying, or duplication of any portion of this Work,
+     in whole or in part, in any medium or format, whether electronic,
+     physical, or otherwise;
+
+  b) Distribution, publication, broadcast, or disclosure of this Work or
+     any portion thereof to any third party;
+
+  c) Modification, adaptation, translation, or creation of any derivative
+     work based on this Work;
+
+  d) Commercial exploitation, licensing, or incorporation of this Work into
+     any commercial product, service, or offering;
+
+  e) Academic submission of this Work, or any portion of it, by any person
+     other than the Author, as that person's own original work;
+
+  f) Reverse engineering, decompiling, or disassembly of any algorithm,
+     trained model, or system architecture described or implemented herein.
+
+---
+
+3. PERMITTED USE BY ENCAP TECHNOLOGIES INDIA PRIVATE LIMITED
+
+Notwithstanding the prohibitions in Section 2, Encap Technologies India
+Private Limited and its authorised representatives are hereby granted a
+non-exclusive, non-transferable, royalty-free right to:
+
+  a) Use, execute, and run the code, simulations, and models contained
+     in this Work for internal research, evaluation, and testing purposes;
+
+  b) Study, review, and analyse the algorithms, methodologies, results,
+     and report for internal knowledge purposes;
+
+  c) Adapt or build upon the Work internally for research and development
+     purposes that are not commercially exploited or disclosed externally;
+
+provided always that:
+
+  i)  Parth Sidhu is clearly and prominently credited as the original
+      author and rights holder in any internal document, presentation,
+      derivative study, or build that references or incorporates this Work,
+      in the form: "Original work by Parth Sidhu (2026)";
+
+  ii) Such use does not extend to external publication, redistribution,
+      sublicensing, or commercial exploitation without the Author's prior
+      written consent;
+
+  iii) The Company accepts all risk and liability arising from its own use
+       or testing of the Work, as set out in Section 4 below.
+
+---
+
+4. PERMITTED USE BY GATI SHAKTI VISHWAVIDYALAYA AND ITS FACULTY
+
+Notwithstanding the prohibitions in Section 2, Gati Shakti Vishwavidyalaya
+("the University"), a Central University established under the Ministry of
+Railways, Government of India, and its faculty members, research staff, and
+academic supervisors are hereby granted a non-exclusive, non-transferable,
+royalty-free right to:
+
+  a) Use, execute, and study the code, simulations, models, and report
+     contained in this Work for bona fide academic research and teaching
+     purposes within the University;
+
+  b) Reference, cite, and discuss the methodologies, findings, and
+     algorithms in academic research papers, theses, course materials,
+     and conference presentations, provided full attribution is given;
+
+  c) Reproduce limited excerpts of the Work in academic publications,
+     theses, or course materials strictly for the purposes of scholarly
+     commentary, criticism, or instruction, with clear attribution;
+
+provided always that:
+
+  i)  Parth Sidhu is credited as the original author in the form:
+      "Parth Sidhu, Gati Shakti Vishwavidyalaya (2026)" in any
+      publication, presentation, or document referencing this Work;
+
+  ii) Such use remains strictly non-commercial and does not extend to
+      licensing, redistribution to third parties outside the University,
+      or integration into any externally funded commercial project without
+      the Author's prior written consent;
+
+  iii) The University and its faculty accept all risk and liability
+       arising from their own use of the Work, as set out in Section 5.
+
+---
+
+5. MUTUAL DISCLAIMER OF LIABILITY
+
+This Work is provided "as is", without warranty of any kind, express or
+implied, including but not limited to warranties of merchantability, fitness
+for a particular purpose, accuracy, completeness, or non-infringement.
+
+Neither the Author (Parth Sidhu), nor the host organisation (Encap
+Technologies India Private Limited), nor the University (Gati Shakti
+Vishwavidyalaya) shall bear any liability whatsoever — whether in contract,
+tort, strict liability, or any other legal theory — for any loss, damage,
+injury, or consequence of any kind arising from:
+
+  a) The use, testing, execution, or evaluation of this Work by any party;
+
+  b) The failure of any simulation result to replicate in physical hardware
+     or real-world operational conditions;
+
+  c) Any decision made in reliance on the findings, recommendations, or
+     results contained in or derived from this Work.
+
+The Company and the University, by exercising their respective permitted
+rights under Sections 3 and 4, each expressly acknowledge that they do so
+entirely at their own risk, and that neither the Author, the Company, nor
+the University bears liability to the other parties or to any third party
+in connection with such use. See DISCLAIMER.md for the full simulation-only
+notice and extended limitation of liability.
+
+---
+
+6. NO WARRANTY
+
+The Author makes no warranty that this Work is error-free, that results are
+reproducible on any particular system, or that the algorithms are free from
+third-party intellectual property claims.
+
+---
+
+7. GOVERNING LAW AND JURISDICTION
+
+This Licence shall be governed by, and construed in accordance with, the
+laws of India. Any dispute arising out of or in connection with this Licence
+shall be subject to the exclusive jurisdiction of the competent courts of
+Himachal Pradesh, India.
+
+---
+
+8. CONTACT
+
+For licensing enquiries, permissions, or any matter concerning this Work:
+
+  Parth Sidhu (Author and Sole Rights Holder)
+  B.Tech, Electronics and Communication Engineering (Final Year)
+  Gati Shakti Vishwavidyalaya, Vadodara, Gujarat
+  Email: parthecstasy@gmail.com
+
+For institutional enquiries only:
+  Encap Technologies India Private Limited
+  Phase 8B, Mohali, Punjab, India
+  https://www.encaptechno.com

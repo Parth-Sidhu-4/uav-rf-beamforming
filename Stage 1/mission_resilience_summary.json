@@ -1,0 +1,14 @@
+{
+  "layer_passed": {
+    "layer1": true,
+    "layer2": true,
+    "layer3": true,
+    "layer4": true,
+    "layer5": true
+  },
+  "experiment_2": {
+    "validated": true,
+    "peak_r_m": 1050,
+    "peak_p": 0.89
+  }
+}

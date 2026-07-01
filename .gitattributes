@@ -1,0 +1,20 @@
+# Auto-detect text files and perform LF normalization
+# This prevents Windows (CRLF) vs Linux/Mac (LF) line ending conflicts
+* text=auto
+
+# Python source code
+*.py text eol=lf
+*.pyc binary
+
+# Documentation and legal files
+*.md text eol=lf
+*.txt text eol=lf
+LICENSE text eol=lf
+CITATION.cff text eol=lf
+
+# 3D Assets and Plots (ensure they are treated as binary, not text)
+*.stl binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.pdf binary

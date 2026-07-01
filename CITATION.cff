@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you reference this work in an academic context, please cite it as below."
+authors:
+  - family-names: "Sidhu"
+    given-names: "Parth"
+    email: "parthecstasy@gmail.com"
+    affiliation: "Gati Shakti Vishwavidyalaya, Vadodara"
+title: "RF Communication Resilience Enhancement for UAV Missions Using Adaptive Beamforming and Threat-Aware Communications"
+date-released: 2026-07-01
+url: "https://github.com/Parth-Sidhu-4/uav-rf-beamforming"
+repository-code: "https://github.com/Parth-Sidhu-4/uav-rf-beamforming"
+abstract: >
+  This project investigates the vulnerability of UAV telemetry links to active electronic warfare 
+  and explores the efficacy of structural-aware, AI-driven beamforming as a defensive mitigation. 
+  It includes a 15-stage simulation pipeline covering baseline Rician channel modeling, 
+  high-fidelity mesh ray-tracing, and the development of a real-time Hybrid Fourier Feature Network 
+  (FFN) surrogate.
+keywords:
+  - UAV
+  - Adaptive Beamforming
+  - Electronic Warfare
+  - Mesh Ray-Tracing
+  - Neural Surrogate
+  - Cognitive Autopilot
+  - Python
+  - Simulation
+license: "Proprietary"
