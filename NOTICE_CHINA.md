@@ -15,14 +15,15 @@ are a national or entity of, the People's Republic of China, you must read
 this notice in full before accessing, downloading, or using any part of this
 repository.
 
-#### 1. Export Control Law of the People's Republic of China (2020)
+#### 1. Export Control Law of the People's Republic of China (2020, supplemented 2024)
 #### 中华人民共和国出口管制法（2020年）
 
 The **Export Control Law of the People's Republic of China**
 (中华人民共和国出口管制法), adopted October 17, 2020 and effective
-December 1, 2020, imposes obligations on Chinese persons and entities
-regarding the import, use, and re-transfer of dual-use technologies
-originating from foreign jurisdictions.
+December 1, 2020 (supplemented by the **Regulations on Export Control of 
+Dual-Use Items**, effective December 1, 2024), imposes obligations on Chinese 
+persons and entities regarding the import, use, and re-transfer of dual-use 
+technologies originating from foreign jurisdictions.
 
 Adaptive antenna systems, phased array beamforming algorithms, electronic
 warfare signal processing, and AI-driven RF systems may constitute
@@ -46,14 +47,16 @@ spatial filtering) may fall within a broad interpretation of communications
 security technologies under this law. Chinese users should assess
 applicability independently.
 
-#### 3. Cybersecurity Law of the People's Republic of China (2017)
-#### 中华人民共和国网络安全法（2017年）
+#### 3. Cybersecurity Law of the People's Republic of China (2017, amended 2026)
+#### 中华人民共和国网络安全法（2017年，2026年修订）
 
 The **Cybersecurity Law** (中华人民共和国网络安全法), effective June 1, 2017,
-regulates the security of network infrastructure and data in China. Any
-Chinese entity that deploys, integrates, or uses algorithms from this
-repository within a network environment regulated under this law must
-comply with all applicable security review and approval requirements.
+and significantly amended effective **January 1, 2026**, regulates the security 
+of network infrastructure and data in China. The 2026 amendments expanded 
+extraterritorial jurisdiction and introduced stricter AI governance and risk 
+monitoring requirements. Any Chinese entity that deploys, integrates, or uses 
+algorithms from this repository must comply with all applicable security review 
+and approval requirements under the amended law.
 
 #### 4. Data Security Law of the People's Republic of China (2021)
 #### 中华人民共和国数据安全法（2021年）
@@ -104,9 +107,9 @@ to consult a qualified PRC-licensed attorney before accessing this repository.
 
 本代码库包含与**自适应波束成形、电子战信号处理及无人机（UAV）通信抗干扰**相关的仿真代码与研究成果。上述技术领域受中华人民共和国多项法律法规的管辖。如您位于中华人民共和国境内，或您是中国公民或在华注册实体，请在访问、下载或使用本代码库任何内容之前，务必完整阅读本声明。
 
-#### 1. 中华人民共和国出口管制法（2020年）
+#### 1. 中华人民共和国出口管制法（2020年，2024年补充）
 
-《中华人民共和国出口管制法》于2020年10月17日颁布，2020年12月1日起施行。该法对中国公民及实体就境外来源双用途技术的进口、使用及再转让规定了相应义务。
+《中华人民共和国出口管制法》于2020年10月17日颁布，2020年12月1日起施行（并由2024年12月1日起施行的《两用物项出口管制条例》作补充）。该法对中国公民及实体就境外来源双用途技术的进口、使用及再转让规定了相应义务。
 
 自适应天线系统、相控阵波束成形算法、电子战信号处理及人工智能驱动的射频系统，可能构成该法第二条所界定的**受管制两用物项**。该条款将受管制物项界定为兼具民用和军事用途的技术。
 
@@ -116,9 +119,9 @@ to consult a qualified PRC-licensed attorney before accessing this repository.
 
 《中华人民共和国密码法》于2020年1月1日起施行，对密码技术在境内的使用进行规范。本代码库虽未直接实现密码算法，但扩频技术、跳频（FHSS）建模及基于协方差的空间滤波等信号处理技术，可能在较宽泛的解释下被视为涉及通信安全技术。中国用户应自行评估该法的适用性。
 
-#### 3. 中华人民共和国网络安全法（2017年）
+#### 3. 中华人民共和国网络安全法（2017年，2026年修订）
 
-《中华人民共和国网络安全法》于2017年6月1日起施行，规范中国境内网络基础设施与数据安全。任何在受该法规范的网络环境中部署、集成或使用本代码库算法的中国实体，须遵守所有适用的安全审查与审批要求。
+《中华人民共和国网络安全法》于2017年6月1日起施行，并于**2026年1月1日**起施行重大修订，规范中国境内网络基础设施与数据安全。2026年修订版扩大了域外管辖权，并引入了更严格的AI治理和风险监测要求。任何部署、集成或使用本代码库算法的中国实体，须遵守修订后法律下所有适用的安全审查与审批要求。
 
 #### 4. 中华人民共和国数据安全法（2021年）
 
