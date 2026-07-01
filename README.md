@@ -309,6 +309,7 @@ Completed as a Summer Internship at **Encap Technologies India Private Limited (
 | [`DISCLAIMER.md`](DISCLAIMER.md) | Simulation-only notice, 9-section liability disclaimer, modelling assumptions |
 | [`CREDITS.md`](CREDITS.md) | Attribution for the ScanEagle STL mesh; Boeing/govt non-affiliation notice |
 | [`EXPORT_CONTROL.md`](EXPORT_CONTROL.md) | Dual-use notice covering Wassenaar (42 states), US ITAR/EAR, EU, India SCOMET |
+| [`NOTICE_GOI_NATIONAL_SECURITY.md`](NOTICE_GOI_NATIONAL_SECURITY.md) | Author's explicit declaration of allegiance to India and disavowal of adversarial misuse |
 | [`NOTICE_CHINA.md`](NOTICE_CHINA.md) | Bilingual (English + 中文) notice covering China's 5 applicable laws |
 | [`NOTICE_PAKISTAN_BANGLADESH.md`](NOTICE_PAKISTAN_BANGLADESH.md) | Trilingual notice for Pakistan (اردو) and Bangladesh (বাংলা) |
 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | Closed project — no external contributions accepted |

@@ -324,6 +324,7 @@ this Work and are incorporated into this Disclaimer by reference:
 | [`LICENSE`](LICENSE) | Ownership; permitted use by Encaptechno and GSV; prohibited activities |
 | [`CREDITS.md`](CREDITS.md) | Third-party STL asset attribution; Boeing/government non-affiliation; mesh quality disclaimer |
 | [`EXPORT_CONTROL.md`](EXPORT_CONTROL.md) | Dual-use technology notice; Wassenaar Arrangement; US ITAR/EAR; EU Dual-Use Regulation; India SCOMET; sanctions |
+| [`NOTICE_GOI_NATIONAL_SECURITY.md`](NOTICE_GOI_NATIONAL_SECURITY.md) | Author's declaration of allegiance to India and absolute prohibition of adversarial misuse |
 | [`NOTICE_CHINA.md`](NOTICE_CHINA.md) | Bilingual notice for PRC users under China's Export Control Law, Cryptography Law, Cybersecurity Law, Data Security Law, and National Security Law |
 | [`NOTICE_PAKISTAN_BANGLADESH.md`](NOTICE_PAKISTAN_BANGLADESH.md) | Trilingual notice for users in Pakistan (Export Control Act 2004, PECA, Official Secrets Act) and Bangladesh (DSA/CSA 2023, Customs Act, Official Secrets Act) |
 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | Closed project policy; no external contributions accepted |
