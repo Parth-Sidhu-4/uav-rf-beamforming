@@ -52,10 +52,14 @@ that could be construed as an offence under:
 
 ## 4. Total Disavowal of Adversarial Misuse
 If any entity—particularly those in geopolitical jurisdictions with adversarial 
-relations to India (including but not limited to those referenced in 
-`NOTICE_PAKISTAN_BANGLADESH.md` and `NOTICE_CHINA.md`)—downloads or utilises 
-this repository for military or intelligence purposes, the Author **categorically 
-disavows** their actions. 
+or strategically complex relations to India (including but not limited to those 
+referenced in `NOTICE_PAKISTAN_BANGLADESH.md`, `NOTICE_CHINA.md`, and 
+`NOTICE_TURKEY.md`)—downloads or utilises this repository for military or 
+intelligence purposes, the Author **categorically disavows** their actions. 
+
+The Author explicitly condemns any application of this technology by foreign 
+defence alliances (e.g., Turkey-Pakistan military cooperation) acting against 
+Indian national security. 
 
 The Author cannot physically restrict public downloads on an open-source platform 
 but places on permanent public record that any such hostile use is fundamentally 
