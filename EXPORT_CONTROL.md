@@ -101,8 +101,9 @@ determinations before downloading or using this Work.
 
 The Wassenaar Arrangement on Export Controls for Conventional Arms and
 Dual-Use Goods and Technologies is a multilateral regime with 42
-participating states. India is **not** a Wassenaar participating state,
-however many countries that may access this repository are.
+participating states. **India is a Wassenaar participating state** (having 
+joined as the 42nd member in December 2017), as are many other countries 
+that may access this repository.
 
 Relevant Wassenaar control list categories that *may* apply to concepts
 in this research include:
