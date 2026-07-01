@@ -65,6 +65,26 @@ The Author cannot physically restrict public downloads on an open-source platfor
 but places on permanent public record that any such hostile use is fundamentally 
 unauthorised and condemned by the Author.
 
+## 5. Exemption and Offer of Assistance to the Indian State
+While this repository explicitly embargoes adversarial nations, active conflict 
+zones, and foreign militaries, **an absolute exemption is granted to the 
+Government of India**. 
+
+The Author explicitly welcomes the review, adaptation, or utilisation of this 
+technology by Indian national security agencies, including but not limited to:
+- The Indian Armed Forces (Army, Navy, Air Force)
+- The Defence Research and Development Organisation (DRDO)
+- The Research and Analysis Wing (R&AW)
+- Any other agency involved in safeguarding India's sovereignty.
+
+If officially requested by a competent Indian authority, the Author stands ready 
+to provide full technical assistance, explanation of the mathematics, and support 
+to further the strategic and defensive interests of the Republic of India.
+
+*Please refer to [`NOTICE_OFFER_OF_ASSISTANCE_INDIA.md`](NOTICE_OFFER_OF_ASSISTANCE_INDIA.md) 
+for the full terms of this exemption, including requirements for prior consent 
+and attribution.*
+
 ---
 *This declaration forms a core component of the legal framework of this repository 
 and is permanently binding.*
