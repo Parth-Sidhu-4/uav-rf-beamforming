@@ -1,5 +1,5 @@
-# FORMAL DECLARATION OF UNCONDITIONAL SUPPORT TO THE REPUBLIC OF INDIA
-# भारत गणराज्य को बिना शर्त समर्थन की औपचारिक घोषणा
+# FORMAL DECLARATION OF RESOLUTE SUPPORT TO THE REPUBLIC OF INDIA
+# भारत गणराज्य को दृढ़ समर्थन की औपचारिक घोषणा
 
 ---
 
@@ -16,7 +16,7 @@ The Author (Parth Sidhu), acting as a citizen of the Republic of India,
 formally declares that **no embargo, license restriction, or usage limitation** 
 contained in this repository applies to the Government of India.
 
-The Author explicitly grants unconditional, perpetual, and royalty-free rights 
+The Author explicitly grants steadfast, perpetual, and royalty-free rights 
 for the review, study, adaptation, reverse-engineering, testing, classification, 
 or operational deployment of any mathematics, algorithms, surrogate models, or 
 RF physics simulations contained herein to:
@@ -44,7 +44,9 @@ antenna modeling, and AI-driven electronic warfare (EW) surrogate development.
 
 **Should any competent authority within the Indian national security apparatus 
 deem this research useful for the defence of the Nation, the Author formally 
-stands ready to offer full, unconditional, and prioritized technical assistance.**
+stands ready to offer full, resolute, and prioritized technical assistance 
+(subject strictly to the Defensive Retaliation Doctrine outlined in 
+`NOTICE_SOVEREIGN_RESTRICTION.md`).**
 
 This includes, but is not limited to:
 - Complete breakdown of the mathematics governing the physical occlusion models 

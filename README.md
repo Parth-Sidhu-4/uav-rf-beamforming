@@ -303,7 +303,7 @@ Completed as a Summer Internship at **Encap Technologies India Private Limited (
 
 ## 🇮🇳 Devotion and Offer of Assistance to the Republic of India
 
-As an Indian national and engineering student, the Author recognises the strategic sensitivity of UAV electronic warfare and adaptive beamforming. While this repository strictly embargoes adversarial nations, active conflict zones, and foreign militaries, **an absolute and unconditional exemption is granted to the Government of India.**
+As an Indian national and engineering student, the Author recognises the strategic sensitivity of UAV electronic warfare and adaptive beamforming. While this repository strictly embargoes adversarial nations, active conflict zones, and foreign militaries, **a resolute and formal exemption is granted to the Government of India.**
 
 If any competent authority—including the **Indian Armed Forces, DRDO, R&AW, or MoD**—deems this research useful for the defence of the Nation, the Author formally stands ready to provide full technical assistance, operational support, and codebase adaptation. It is the Author's highest patriotic duty and privilege to assist in safeguarding the sovereignty and integrity of India. 
 
@@ -321,7 +321,8 @@ If any competent authority—including the **Indian Armed Forces, DRDO, R&AW, or
 | [`CREDITS.md`](CREDITS.md) | Attribution for the ScanEagle STL mesh; Boeing/govt non-affiliation notice |
 | [`EXPORT_CONTROL.md`](EXPORT_CONTROL.md) | Dual-use notice covering Wassenaar (42 states), US ITAR/EAR, EU, India SCOMET |
 | [`NOTICE_GOI_NATIONAL_SECURITY.md`](NOTICE_GOI_NATIONAL_SECURITY.md) | Author's explicit declaration of allegiance to India and disavowal of adversarial misuse |
-| [`NOTICE_OFFER_OF_ASSISTANCE_INDIA.md`](NOTICE_OFFER_OF_ASSISTANCE_INDIA.md) | Official offer of unconditional technical assistance and embargo exemption for Indian defence and intelligence agencies |
+| [`NOTICE_OFFER_OF_ASSISTANCE_INDIA.md`](NOTICE_OFFER_OF_ASSISTANCE_INDIA.md) | Official offer of resolute technical assistance and embargo exemption for Indian defence and intelligence agencies |
+| [`NOTICE_SOVEREIGN_RESTRICTION.md`](NOTICE_SOVEREIGN_RESTRICTION.md) | Absolute blanket denial of consent for all foreign state actors, and moral defensive-retaliation clause |
 | [`NOTICE_CHINA.md`](NOTICE_CHINA.md) | Bilingual (English + 中文) notice covering China's 5 applicable laws |
 | [`NOTICE_TURKEY.md`](NOTICE_TURKEY.md) | Bilingual (English + Türkçe) notice covering Turkish defence laws and UAV industry alignments |
 | [`NOTICE_ACTIVE_CONFLICT.md`](NOTICE_ACTIVE_CONFLICT.md) | Absolute embargo on the use of this repository by nations currently involved in armed conflicts |
