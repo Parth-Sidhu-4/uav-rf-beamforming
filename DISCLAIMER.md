@@ -322,6 +322,7 @@ this Work and are incorporated into this Disclaimer by reference:
 | Document | Scope |
 |---|---|
 | [`LICENSE`](LICENSE) | Ownership; permitted use by Encaptechno and GSV; prohibited activities |
+| [`NOTICE_RF_TRANSMISSION.md`](NOTICE_RF_TRANSMISSION.md) | Strict prohibition on SDR/hardware interfacing; indemnification for FCC/WPC/ITU spectrum violations |
 | [`CREDITS.md`](CREDITS.md) | Third-party STL asset attribution; Boeing/government non-affiliation; mesh quality disclaimer |
 | [`EXPORT_CONTROL.md`](EXPORT_CONTROL.md) | Dual-use technology notice; Wassenaar Arrangement; US ITAR/EAR; EU Dual-Use Regulation; India SCOMET; sanctions |
 | [`NOTICE_GOI_NATIONAL_SECURITY.md`](NOTICE_GOI_NATIONAL_SECURITY.md) | Author's declaration of allegiance to India and absolute prohibition of adversarial misuse |

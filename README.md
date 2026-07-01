@@ -307,6 +307,7 @@ Completed as a Summer Internship at **Encap Technologies India Private Limited (
 |---|---|
 | [`LICENSE`](LICENSE) | Ownership, permitted use by Encaptechno and GSV, prohibited activities |
 | [`DISCLAIMER.md`](DISCLAIMER.md) | Simulation-only notice, 9-section liability disclaimer, modelling assumptions |
+| [`NOTICE_RF_TRANSMISSION.md`](NOTICE_RF_TRANSMISSION.md) | Absolute prohibition on SDR integration; liability waiver for FCC/WPC/ITU spectrum violations |
 | [`CREDITS.md`](CREDITS.md) | Attribution for the ScanEagle STL mesh; Boeing/govt non-affiliation notice |
 | [`EXPORT_CONTROL.md`](EXPORT_CONTROL.md) | Dual-use notice covering Wassenaar (42 states), US ITAR/EAR, EU, India SCOMET |
 | [`NOTICE_GOI_NATIONAL_SECURITY.md`](NOTICE_GOI_NATIONAL_SECURITY.md) | Author's explicit declaration of allegiance to India and disavowal of adversarial misuse |

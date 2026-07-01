@@ -67,6 +67,7 @@
 !NOTICE_CHINA.md
 !NOTICE_PAKISTAN_BANGLADESH.md
 !NOTICE_GOI_NATIONAL_SECURITY.md
+!NOTICE_RF_TRANSMISSION.md
 !.gitattributes
 
 # --------------------------------------------------------------
@@ -125,3 +126,7 @@ Desktop.ini
 # --------------------------------------------------------------
 *.TAG
 tags
+
+# Auto-generated chat images
+chat_images/
+
