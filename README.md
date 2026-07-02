@@ -307,7 +307,7 @@ As an Indian national and engineering student, the Author recognises the strateg
 
 If any competent authority—including the **Indian Armed Forces, DRDO, R&AW, or MoD**—deems this research useful for the defence of the Nation, the Author formally stands ready to provide full technical assistance, operational support, and codebase adaptation. It is the Author's highest patriotic duty and privilege to assist in safeguarding the sovereignty and integrity of India. 
 
-*(Please refer to [`NOTICE_OFFER_OF_ASSISTANCE_INDIA.md`](NOTICE_OFFER_OF_ASSISTANCE_INDIA.md) and [`NOTICE_GOI_NATIONAL_SECURITY.md`](NOTICE_GOI_NATIONAL_SECURITY.md) below for the formal legal declarations.)*
+*(Please refer to [`NOTICE_OFFER_OF_ASSISTANCE_INDIA.md`](legal/NOTICE_OFFER_OF_ASSISTANCE_INDIA.md) and [`NOTICE_GOI_NATIONAL_SECURITY.md`](legal/NOTICE_GOI_NATIONAL_SECURITY.md) below for the formal legal declarations.)*
 
 ---
 
@@ -317,16 +317,16 @@ If any competent authority—including the **Indian Armed Forces, DRDO, R&AW, or
 |---|---|
 | [`LICENSE`](LICENSE) | Ownership, permitted use by Encaptechno and GSV, prohibited activities |
 | [`DISCLAIMER.md`](DISCLAIMER.md) | Simulation-only notice, 9-section liability disclaimer, modelling assumptions |
-| [`NOTICE_RF_TRANSMISSION.md`](NOTICE_RF_TRANSMISSION.md) | Absolute prohibition on SDR integration; liability waiver for FCC/WPC/ITU spectrum violations |
+| [`NOTICE_RF_TRANSMISSION.md`](legal/NOTICE_RF_TRANSMISSION.md) | Absolute prohibition on SDR integration; liability waiver for FCC/WPC/ITU spectrum violations |
 | [`CREDITS.md`](CREDITS.md) | Attribution for the ScanEagle STL mesh; Boeing/govt non-affiliation notice |
-| [`EXPORT_CONTROL.md`](EXPORT_CONTROL.md) | Dual-use notice covering Wassenaar (42 states), US ITAR/EAR, EU, India SCOMET |
-| [`NOTICE_GOI_NATIONAL_SECURITY.md`](NOTICE_GOI_NATIONAL_SECURITY.md) | Author's explicit declaration of allegiance to India and disavowal of adversarial misuse |
-| [`NOTICE_OFFER_OF_ASSISTANCE_INDIA.md`](NOTICE_OFFER_OF_ASSISTANCE_INDIA.md) | Official offer of resolute technical assistance and embargo exemption for Indian defence and intelligence agencies |
-| [`NOTICE_SOVEREIGN_RESTRICTION.md`](NOTICE_SOVEREIGN_RESTRICTION.md) | Absolute blanket denial of consent for all foreign state actors, and moral defensive-retaliation clause |
-| [`NOTICE_CHINA.md`](NOTICE_CHINA.md) | Bilingual (English + 中文) notice covering China's 5 applicable laws |
-| [`NOTICE_TURKEY.md`](NOTICE_TURKEY.md) | Bilingual (English + Türkçe) notice covering Turkish defence laws and UAV industry alignments |
-| [`NOTICE_ACTIVE_CONFLICT.md`](NOTICE_ACTIVE_CONFLICT.md) | Absolute embargo on the use of this repository by nations currently involved in armed conflicts |
-| [`NOTICE_PAKISTAN_BANGLADESH.md`](NOTICE_PAKISTAN_BANGLADESH.md) | Trilingual notice for Pakistan (اردو) and Bangladesh (বাংলা) |
+| [`EXPORT_CONTROL.md`](legal/EXPORT_CONTROL.md) | Dual-use notice covering Wassenaar (42 states), US ITAR/EAR, EU, India SCOMET |
+| [`NOTICE_GOI_NATIONAL_SECURITY.md`](legal/NOTICE_GOI_NATIONAL_SECURITY.md) | Author's explicit declaration of allegiance to India and disavowal of adversarial misuse |
+| [`NOTICE_OFFER_OF_ASSISTANCE_INDIA.md`](legal/NOTICE_OFFER_OF_ASSISTANCE_INDIA.md) | Official offer of resolute technical assistance and embargo exemption for Indian defence and intelligence agencies |
+| [`NOTICE_SOVEREIGN_RESTRICTION.md`](legal/NOTICE_SOVEREIGN_RESTRICTION.md) | Absolute blanket denial of consent for all foreign state actors, and moral defensive-retaliation clause |
+| [`NOTICE_CHINA.md`](legal/NOTICE_CHINA.md) | Bilingual (English + 中文) notice covering China's 5 applicable laws |
+| [`NOTICE_TURKEY.md`](legal/NOTICE_TURKEY.md) | Bilingual (English + Türkçe) notice covering Turkish defence laws and UAV industry alignments |
+| [`NOTICE_ACTIVE_CONFLICT.md`](legal/NOTICE_ACTIVE_CONFLICT.md) | Absolute embargo on the use of this repository by nations currently involved in armed conflicts |
+| [`NOTICE_PAKISTAN_BANGLADESH.md`](legal/NOTICE_PAKISTAN_BANGLADESH.md) | Trilingual notice for Pakistan (اردو) and Bangladesh (বাংলা) |
 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | Closed project — no external contributions accepted |
 | [`SECURITY.md`](SECURITY.md) | No security patches; not for operational deployment |
 | [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) | Expected conduct for issue tracker interactions |

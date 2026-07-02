@@ -322,16 +322,16 @@ this Work and are incorporated into this Disclaimer by reference:
 | Document | Scope |
 |---|---|
 | [`LICENSE`](LICENSE) | Ownership; permitted use by Encaptechno and GSV; prohibited activities |
-| [`NOTICE_RF_TRANSMISSION.md`](NOTICE_RF_TRANSMISSION.md) | Strict prohibition on SDR/hardware interfacing; indemnification for FCC/WPC/ITU spectrum violations |
+| [`NOTICE_RF_TRANSMISSION.md`](legal/NOTICE_RF_TRANSMISSION.md) | Strict prohibition on SDR/hardware interfacing; indemnification for FCC/WPC/ITU spectrum violations |
 | [`CREDITS.md`](CREDITS.md) | Third-party STL asset attribution; Boeing/government non-affiliation; mesh quality disclaimer |
-| [`EXPORT_CONTROL.md`](EXPORT_CONTROL.md) | Dual-use technology notice; Wassenaar Arrangement; US ITAR/EAR; EU Dual-Use Regulation; India SCOMET; sanctions |
-| [`NOTICE_GOI_NATIONAL_SECURITY.md`](NOTICE_GOI_NATIONAL_SECURITY.md) | Author's declaration of allegiance to India and absolute prohibition of adversarial misuse |
-| [`NOTICE_OFFER_OF_ASSISTANCE_INDIA.md`](NOTICE_OFFER_OF_ASSISTANCE_INDIA.md) | Absolute embargo exemption for the Government of India and formal offer of technical support |
-| [`NOTICE_SOVEREIGN_RESTRICTION.md`](NOTICE_SOVEREIGN_RESTRICTION.md) | Absolute blanket denial of consent for all foreign state actors, and moral defensive-retaliation clause |
-| [`NOTICE_CHINA.md`](NOTICE_CHINA.md) | Bilingual notice for PRC users under China's Export Control Law, Cryptography Law, Cybersecurity Law, Data Security Law, and National Security Law |
-| [`NOTICE_TURKEY.md`](NOTICE_TURKEY.md) | Bilingual notice for users in Türkiye regarding Wassenaar compliance and national defence industry laws (Law No. 5201 / 5202) |
-| [`NOTICE_ACTIVE_CONFLICT.md`](NOTICE_ACTIVE_CONFLICT.md) | Strict embargo explicitly forbidding the use of this repository by any actor currently involved in an active armed conflict |
-| [`NOTICE_PAKISTAN_BANGLADESH.md`](NOTICE_PAKISTAN_BANGLADESH.md) | Trilingual notice for users in Pakistan (Export Control Act 2004, PECA, Official Secrets Act) and Bangladesh (DSA/CSA 2023, Customs Act, Official Secrets Act) |
+| [`EXPORT_CONTROL.md`](legal/EXPORT_CONTROL.md) | Dual-use technology notice; Wassenaar Arrangement; US ITAR/EAR; EU Dual-Use Regulation; India SCOMET; sanctions |
+| [`NOTICE_GOI_NATIONAL_SECURITY.md`](legal/NOTICE_GOI_NATIONAL_SECURITY.md) | Author's declaration of allegiance to India and absolute prohibition of adversarial misuse |
+| [`NOTICE_OFFER_OF_ASSISTANCE_INDIA.md`](legal/NOTICE_OFFER_OF_ASSISTANCE_INDIA.md) | Absolute embargo exemption for the Government of India and formal offer of technical support |
+| [`NOTICE_SOVEREIGN_RESTRICTION.md`](legal/NOTICE_SOVEREIGN_RESTRICTION.md) | Absolute blanket denial of consent for all foreign state actors, and moral defensive-retaliation clause |
+| [`NOTICE_CHINA.md`](legal/NOTICE_CHINA.md) | Bilingual notice for PRC users under China's Export Control Law, Cryptography Law, Cybersecurity Law, Data Security Law, and National Security Law |
+| [`NOTICE_TURKEY.md`](legal/NOTICE_TURKEY.md) | Bilingual notice for users in Türkiye regarding Wassenaar compliance and national defence industry laws (Law No. 5201 / 5202) |
+| [`NOTICE_ACTIVE_CONFLICT.md`](legal/NOTICE_ACTIVE_CONFLICT.md) | Strict embargo explicitly forbidding the use of this repository by any actor currently involved in an active armed conflict |
+| [`NOTICE_PAKISTAN_BANGLADESH.md`](legal/NOTICE_PAKISTAN_BANGLADESH.md) | Trilingual notice for users in Pakistan (Export Control Act 2004, PECA, Official Secrets Act) and Bangladesh (DSA/CSA 2023, Customs Act, Official Secrets Act) |
 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | Closed project policy; no external contributions accepted |
 | [`SECURITY.md`](SECURITY.md) | No security patches; prohibition on operational deployment |
 | [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) | Conduct standards for repository interactions |
